@@ -48,7 +48,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo](https://jam.dev/c/6d650683-baf4-4a01-9075-053e5f787687) |
+| [Vídeo](https://jam.dev/c/0f9d24c8-bd90-4b1d-a22b-5f6aedafa201) |
 ---
 
 ### Caso de Teste 03: Acesso ao Dashboard com sessão expirada.

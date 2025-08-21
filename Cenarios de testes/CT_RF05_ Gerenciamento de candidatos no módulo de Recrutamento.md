@@ -24,7 +24,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/c7c4307e-d76d-4a90-b4c7-bea0fd6da1e8) |
 ---
 
 ### Caso de Teste 02: Tentar adicionar candidato sem preencher campos obrigatórios.
@@ -51,7 +51,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/90eb96fd-881c-4c50-9f96-001f3157f94c) |
 ---
 
 ### Caso de Teste 03: Buscar candidato cadastrado pelo nome.
@@ -77,4 +77,29 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/62da1d78-81fc-4c29-bab9-394062e4eb0e) |
+
+### Caso de Teste 04: Buscar candidato não cadastrado pelo nome.
+
+| ID       | Descrição                                                        |
+| :------- | :---------------------------------------------------------------- |
+| C05-CT04 | O sistema deve exibir erro se um candidato pesquisado pelo nome não existir. |
+
+| **Pré-condições**                                             |
+| :------------------------------------------------------------ |
+|           |
+
+| **Passos**                                                        |
+| :---------------------------------------------------------------- |
+| **DADO** que o usuário acessa o menu \"Recruitment\"             |
+| **E** digita o nome do candidato inexistente no campo de busca              |
+| **QUANDO** clicar no botão \"Search\"                           |
+| **ENTÃO** o sistema deve exibir erro de campo inválido |
+
+| **Critérios de aceitação**                                      |
+| :-------------------------------------------------------------- |
+| A pesquisa não deve ser realizada. |
+
+|                **Evidência(s)**               |
+| :-------------------------------------------: |
+| [Vídeo](https://jam.dev/c/7e11f0d6-589a-4d4a-bbbc-5a3a624effc5) |

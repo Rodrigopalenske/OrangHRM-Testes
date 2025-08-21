@@ -24,7 +24,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/95f2917a-3624-457b-ab7c-25befebd30dd) |
 ---
 
 ### Caso de Teste 02: Tentativa de adicionar usuário com nome de usuário já existente.
@@ -51,7 +51,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/8937ec81-71f2-4fff-862e-a849454d6aa8) |
 ---
 
 ### Caso de Teste 03: Filtrar usuários por status "Enabled".
@@ -77,4 +77,4 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/4f1ff0a5-371f-486a-acff-ff7e21d012a9) |
