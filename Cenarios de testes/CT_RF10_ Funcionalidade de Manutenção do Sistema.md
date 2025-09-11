@@ -23,7 +23,8 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| Falha ao realizar o teste |
+| O teste depende de permissões que o usuário não tem autorização.|
 ---
 
 ### Caso de Teste 02: Acessar o sistema após término da manutenção.
@@ -49,7 +50,8 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| Falha ao realizar o teste |
+| O teste depende de permissões que o usuário não tem autorização.|
 ---
 
 ### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada.
@@ -75,4 +77,5 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| Falha ao realizar o teste |
+| O teste depende de permissões que o usuário não tem autorização.|

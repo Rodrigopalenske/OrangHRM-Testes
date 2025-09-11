@@ -23,7 +23,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/9c5e5810-a6b6-4c53-b7ab-7edc204ae113) |
 ---
 
 ### Caso de Teste 02: Buscar colaborador inexistente.
@@ -49,7 +49,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/85e61fdf-43b9-4546-a4d7-79afd4df98be) |
 ---
 
 ### Caso de Teste 03: Aplicar filtro por cargo (Job Title).
@@ -75,4 +75,4 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/cf5cbd82-a959-4802-a234-9cc3d3d9f83e) |

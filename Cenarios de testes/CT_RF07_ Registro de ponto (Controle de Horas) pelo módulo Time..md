@@ -23,7 +23,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/e8641a06-da19-4d66-886e-e7b447861f38) |
 ---
 
 ### Caso de Teste 02: Tentar marcar ponto sem horário permitido ou fora do expediente.
@@ -48,7 +48,7 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/efe83aca-ed9a-483b-9deb-25f8dd048a66) |
 ---
 
 ### Caso de Teste 03: Consultar registro de ponto anterior.
@@ -73,4 +73,4 @@
 
 |                **Evidência(s)**               |
 | :-------------------------------------------: |
-| [Vídeo]() |
+| [Vídeo](https://jam.dev/c/2ffe13f5-1ddc-4415-8e8c-06803412a321) |
